@@ -13,6 +13,10 @@ This project focuses on analyzing customer behavior, retention, and acquisition 
 - [Key Data Insights](#-key-data-insights)
 - [Business Recommendations](#-business-recommendations)
 
+## **Datasets Used**
+- [customer_lifetime_value_summary](https://docs.google.com/spreadsheets/d/1GYjbAeMr7UkKHvUqs4cwg9ZIAt8cFW4QJbq-OmyOLaQ/edit?usp=drive_link)
+- [ecom_crm_analysis](https://docs.google.com/spreadsheets/d/1odM3f3Z770cyNrCSwX0fNkIr0hREn3qAHvFacGQ6Z-I/edit?usp=drive_link)
+
 ## 🛠 **Technologies Used**
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, lifetimes)
